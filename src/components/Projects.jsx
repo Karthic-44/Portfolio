@@ -14,10 +14,10 @@ export default function Projects() {
             link:"https://github.com/Karthic-44/StegKit"    
     },
         {
-            name: 'File-Integrity-Monitor ',
-            description: <>Developed a Convolutional Neural Network (CNN) architecture for forgery detection, leveraging pre-trained models for feature extraction.
-                         <br/><br/><strong>Technologies Used:</strong>  python, hashlib, tkinter, ttkbootstrap, os </>,
-            link:"https://github.com/Karthic-44/File-Integrity-Monitor" 
+            name: 'AI Based Malware Detector' ,
+            description: <>Developed a AI based malware detector using XGBoost, it extracts 54 structural features from PE header and detects malware based on the PE header.
+                         <br/><br/><strong>Technologies Used:</strong>  python, pandas, scikit-learn, XGBoost, joblib  </>,
+            link:"https://github.com/Karthic-44/Malware-analysis" 
 
         },
         {
