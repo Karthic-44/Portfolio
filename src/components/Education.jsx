@@ -3,7 +3,7 @@ export default function Education() {
         {
             name: 'MCA',
             description: 'SRM UNIVERSITY ',
-            gpa: "CGPA: 9.42"
+            gpa: "CGPA: 9.55"
         },
         {
             name: 'BCA',
@@ -13,7 +13,7 @@ export default function Education() {
         {
             name: 'High School',
             description: 'SINDHI MODEL SENIOR SECONDARY SCHOOL',
-            gpa:<>12th: 76%  <br/> 10th: 75%</>
+            gpa:<>12th: 76.60%  <br/> 10th: 75.00%</>
 
         },
        
