@@ -1,9 +1,23 @@
 export default function Achivements() {
      const achivements = [
-       
+       {
+            name: "Code Clash (Debugging)",
+            date: '06 FEB 2026',
+            description: <>
+                         <br/><strong>First Prize</strong><br/>Won first prize in Code Clash (debugging) competition conducted at Dwaraka Doss Goverdhan Doss Vaishnav College.</>,
+            
+        },
+          
+       {
+            name: "Kill The Manual (Hackathon)",
+            date: '25 FEB 2026',
+            description: <>
+                         <br/><strong>Third Prize</strong><br/>Won Third prize in Kill The Manual (Hackathon) competition conducted at SRM.</>,
+            
+        },
                {
             name: "TECHNORA'25",
-            date: '18 sep 2025',
+            date: '18 SEP 2025',
             description: <>
                          <br/><strong>Organizing Committe</strong><br/> Organized a national technical symposium with 200+ participants from multiple colleges. Worked with the technical team to resolve technical issues  </>,
             
@@ -20,7 +34,7 @@ export default function Achivements() {
 
         {
             name: "ALAN 0' BRIAN QUIZ (ONINE)",
-            date: '28 jul 2024',
+            date: '28 JUL 2024',
             description: <>
                          <br/><strong>Lead Organizer</strong><br/> Organized an international online technical quiz with 500+ participants from 15 countries and led a team of 10 organizers.  </>,
             
