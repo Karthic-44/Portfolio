@@ -8,7 +8,7 @@ export default function Experience() {
 <li>Debugged, tested and optimized application performance. </li>
 <li>Demonstrated problem-solving, analytical thinking and attention to detail.</li></ul> </>,
             
-        }
+        },
           
           {
             name: 'ZYBEAK TECHNOLOGIES PVT.LTD	(Chennai)',
