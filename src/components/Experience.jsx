@@ -1,6 +1,16 @@
 export default function Experience() {
      const experience = [
-        {
+         {
+            name: 'INSIGHTIFY BOOK MY SERVICE PVT.LTD	(Chennai)',
+            description: <>May 2026
+                         <br/><br/><strong>Python Developer </strong><ul><li> Developed backend services using Python and FastAPI. </li>
+<li>Built and maintained RESTful APIs. </li>
+<li>Debugged, tested and optimized application performance. </li>
+<li>Demonstrated problem-solving, analytical thinking and attention to detail.</li></ul> </>,
+            
+        }
+          
+          {
             name: 'ZYBEAK TECHNOLOGIES PVT.LTD	(Chennai)',
             description: <>Jul 2024 – Sep 2024 
                          <br/><br/><strong>Penetration Tester</strong><ul><li>Conducted vulnerability assessments and penetration tests on various systems and applications. </li>
