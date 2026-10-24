@@ -1,6 +1,13 @@
 export default function Projects() {
      const projects = [
         {
+            name: 'Specter - Malware Detector' ,
+            description: <>Built an end-to-end static malware detector for Windows PE files it extracts 54 header, section-entropy, import and resource features and classifies them with an XGBoost + deep neural-network ensemble, reaching 99% accuracy. This project also features an FastAPI backend and React Frontend.
+                         <br/><br/><strong>Technologies Used:</strong>  python, pandas, scikit-learn, XGBoost, pytorch, FastAPI, react + vite</>,
+            link:"https://github.com/Karthic-44/Spectre" 
+
+        },
+          {
             name: 'Fabricated Image Analyzer',
             description: <>Developed a Convolutional Neural Network (CNN) architecture for forgery detection, leveraging pre-trained models for feature extraction.
                          <br/><br/><strong>Technologies Used:</strong>  python, flask, tensorflow, keras, pil. </>,
@@ -13,13 +20,7 @@ export default function Projects() {
                          <br/><br/><strong>Technologies Used:</strong>  python, os, wave, numpy, cv2, shutil. </>,
             link:"https://github.com/Karthic-44/StegKit"    
     },
-        {
-            name: 'AI Based Malware Detector' ,
-            description: <>Developed a AI based malware detector using XGBoost, it extracts 54 structural features from PE header and detects malware based on the PE header.
-                         <br/><br/><strong>Technologies Used:</strong>  python, pandas, scikit-learn, XGBoost, joblib  </>,
-            link:"https://github.com/Karthic-44/Malware-analysis" 
-
-        },
+        
         {
             name: 'Ecommerce Application ',
             description: <>Developed a production-grade marketplace and  Implemented microservices with separate customer, admin, and seller portals with real-time inventory management. Integrated enterprise-level authentication using Spring Security with JWT tokens . 
