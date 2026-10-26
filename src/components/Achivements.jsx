@@ -1,6 +1,14 @@
 export default function Achivements() {
      const achivements = [
        {
+            name: "TECHNORA'26",
+            date: '22 SEP 2026',
+            description: <>
+                         <br/><strong>Lead Organizer (Treasurer)</strong><br/> Organized a national technical symposium with 200+ participants from multiple colleges. Led a team of 60 students and worked with the technical team to resolve technical issues  </>,
+            
+        },
+          
+          {
             name: "Code Clash (Debugging)",
             date: '06 FEB 2026',
             description: <>
