@@ -9,8 +9,8 @@ export default function Projects() {
         },
           {
             name: 'Fabricated Image Analyzer',
-            description: <>Developed a Convolutional Neural Network (CNN) architecture for forgery detection, leveraging pre-trained models for feature extraction.
-                         <br/><br/><strong>Technologies Used:</strong>  python, flask, tensorflow, keras, pil. </>,
+            description: <>Built a deep learning model in pytorch that detects tampered JPEG images using error level analysis, trained on 9,500 images.Fine-tuned a pretrained neural network reaching 98% accuracy on a held-out test set and shipped this project as a web-application using FastPit and react
+                         <br/><br/><strong>Technologies Used:</strong>  python, pytorch, FastApi, react. </>,
             link:"https://github.com/Karthic-44/Fabricated-Image-Analyzer"
             
         },
