@@ -28,7 +28,7 @@ export default function About() {
 <div className="flex w-full flex-col lg:flex-row items-center justify-center gap-20 my-20">
             
 <div className="flex-1 flex flex-col items-center">
-                    <p className="mb-10 max-w-2xl font-Ovo">I am a penetration tester and a java backend developer passionate about building scalable and secure web applications. My goal is to secure systems and contribute to making the digital world a safer place.</p>
+                    <p className="mb-10 max-w-2xl font-Ovo">I am a penetration tester and a ai-engineer passionate about building scalable and secure web applications. My goal is to secure systems and contribute to making the digital world a safer place.</p>
 
 <ul className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-4xl">
                         {data.map((data) => (
